@@ -1,2 +1,2 @@
-# algos_from_scratch
+# Algos from Scratch
 This is the main repository of Algos from Scratch.
